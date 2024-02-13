@@ -9,7 +9,7 @@ Python (pandas, seaborn, matplotlib, plotly), SQL (PostgreSQL), Tableau, Jupyter
 
 ### Мои контакты ☎️
 
-| LinkedIn | []() |
+| LinkedIn | [www.linkedin.com/in/qusoq](www.linkedin.com/in/qusoq) |
 | :---------------------- | :---------------------- |
 | Email | hammi@vk.com |
 | Telegarm | [t.me/qs0kx](https://t.me/qs0kx) |
